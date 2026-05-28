@@ -220,3 +220,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 .venv/
+data/real_acct_*.txt
+data/zillow_zhvi_zip.csv
+data/houston_re.db
