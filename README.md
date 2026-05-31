@@ -109,7 +109,7 @@ absolute values.
 
 5. Launch Jupyter and run the notebook
 
-Open `01_data_audit.ipynb` and run all cells in order.
+Open `main.ipynb` and run all cells in order.
 
 ---
 
